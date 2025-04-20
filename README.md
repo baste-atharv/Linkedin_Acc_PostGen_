@@ -42,7 +42,7 @@ This is a Generative AI (GenAI) application that automatically creates engaging 
 - **Prompt Engineering**  
   Crafted prompts to help the LLM extract and articulate key ideas in a LinkedIn-friendly tone.
 
-- **MCP (Multi-step Conversational Programs)**  
+- **MCP (Model Context Protocol)**  
   Explored using MCP to allow agents to retain memory across interactions for preference updates and content continuity. Ready-to-use frameworks were unavailable during development due to tight deadlines.
 
 ---
